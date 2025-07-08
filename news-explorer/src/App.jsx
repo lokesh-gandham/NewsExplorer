@@ -4,7 +4,7 @@ import { Route, Routes, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar';
 import ArticleDetails from './pages/ArticleDetails';
 import SearchResults from './pages/SearchResults';
-import Home from './pages/home';
+import Home from './pages/Home';
 import { useCustomTheme } from './context/ThemeContext';
 import Register from './pages/Register';
 import Login from './pages/Login';
