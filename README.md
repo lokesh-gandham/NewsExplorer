@@ -1,5 +1,26 @@
 
-### 📁 Folder: `screenshots`
+### 📸 App Screenshots
+
+#### 1. Homepage
+![Homepage](screenshots/general.JPG)
+
+#### 2. Category View
+![Category View](screenshots/category.png)
+
+#### 3. Country Selection
+![Country Selection](screenshots/country.png)
+
+#### 4. Search Function
+![Search Function](screenshots/search.png)
+
+#### 5. Loading State
+![Loading State](screenshots/loading.png)
+
+#### 6. Dark Mode
+![Dark Mode](screenshots/darkmode.png)
+
+#### 7. Error Message
+![Error Message](screenshots/error.png)
 
 
 
