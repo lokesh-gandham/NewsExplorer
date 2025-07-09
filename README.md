@@ -37,6 +37,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 ---
+You can add more functionalities like fetching top headlines from the sources 
+you can also fetch articles based on the date from the everything
+you can add functionality like getting articles based on the domains .
 
 ## 📰 News App — Features
 
@@ -65,3 +68,4 @@ To run this app, you need a free API key from [https://newsapi.org](https://news
 
 ```env
 VITE_NEWS_API_KEY=your_api_key_here
+
