@@ -5,16 +5,16 @@
 ![Homepage](screenshots/general.jpg)
 
 #### 2. Education of us
-![Education of us View](screenshots/education category of us.jpg)
+![Education of us View](screenshots/educationcategoryofus.jpg)
 
 #### 3. Article
 ![article](screenshots/article.jpg)
 
 #### 4. Search Function
-![search sports](screenshots/search sports.jpg)
+![search sports](screenshots/searchsports.jpg)
 
 #### 5. After search
-![after search State](screenshots/sports after enter.jpg)
+![after search State](screenshots/sportsafterenter.jpg)
 
 #### 6. Resposive
 ![Responsive](screenshots/responsive.jpg)
