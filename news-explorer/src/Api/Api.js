@@ -12,7 +12,7 @@ console.log("Request URL:", `${BASE_URL}/top-headlines?country=${country}&apiKey
   return response.data.articles;
 };
 export const fetchSearchResults = async (query, category = '') => {
-  const url = `${BASE_URL}/everything?q=${query}${category ? `&category=${category}` : ''}&apiKey=${API_KEY}`;
+  const url = `${BASE_URL}/everything?q=${query}&from=2025-06-09&sortBy=publishedAt${category ? `&category=${category}` : ''}&apiKey=${API_KEY}`;
   const response = await axios.get(url);
   return response.data.articles;
 };
