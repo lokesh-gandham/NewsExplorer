@@ -4,23 +4,26 @@
 #### 1. Homepage
 ![Homepage](screenshots/general.jpg)
 
-#### 2. Category View
-![Category View](screenshots/category.png)
+#### 2. Education of us
+![Education of us View](screenshots/education category of us.jpg)
 
-#### 3. Country Selection
-![Country Selection](screenshots/country.png)
+#### 3. Article
+![article](screenshots/article.jpg)
 
 #### 4. Search Function
-![Search Function](screenshots/search.png)
+![search sports](screenshots/search sports.jpg)
 
-#### 5. Loading State
-![Loading State](screenshots/loading.png)
+#### 5. After search
+![after search State](screenshots/sports after enter.jpg)
 
-#### 6. Dark Mode
-![Dark Mode](screenshots/darkmode.png)
+#### 6. Resposive
+![Responsive](screenshots/responsive.jpg)
 
-#### 7. Error Message
-![Error Message](screenshots/error.png)
+#### 7. Login
+![login ](screenshots/login.jpg)
+
+#### 7. Register
+![register ](screenshots/register.jpg)
 
 
 
