@@ -5,7 +5,7 @@
 ![Homepage](screenshots/general.jpg)
 
 #### 2. Education of us
-![Education of us View](screenshots/educationcategoryofus.jpg)
+![Education of us View](screenshots/educationofus.jpg)
 
 #### 3. Article
 ![article](screenshots/article.jpg)
