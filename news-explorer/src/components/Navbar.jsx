@@ -163,7 +163,7 @@ export default function Navbar() {
                 textTransform: 'none',
               }}
             >
-              {mode === 'dark' ? 'Dark' : 'Light'}
+              {mode === 'dark' ? 'Light' : 'Dark'}
             </Button>
 
             {/* Search Icon */}

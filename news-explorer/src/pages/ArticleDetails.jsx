@@ -9,7 +9,7 @@ export default function ArticleDetails() {
   const article = location.state?.article;
 
   if (!article) {
-    // If no article data is available, redirect back to home or show a message
+
     return (
       <div className="p-6 max-w-3xl mx-auto">
         <p className="text-center text-red-500 mb-4">

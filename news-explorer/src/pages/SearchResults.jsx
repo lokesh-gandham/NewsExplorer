@@ -24,7 +24,7 @@ export default function SearchResults() {
       try {
         let data = [];
         if (keyword) {
-          data = await fetchSearchResults(keyword, category); // pass category if your API supports it
+          data = await fetchSearchResults(keyword, category); 
         } else if (category) {
           data = await fetchTopHeadlines(category);
         } else {
