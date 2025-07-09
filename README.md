@@ -16,7 +16,7 @@ This project is a simple news aggregator that fetches top headlines using the [N
 ### ✨ Features:
 - View top news headlines by **category**
 - Switch between different **countries** 
-- Fully responsive and styled with **Tailwind CSS**
+- Fully responsive and styled with **Tailwind CSS and MAterialUi** 
 - Supports **light/dark mode**
 - Displays loading indicators and error messages
 - Built with **React + Redux Toolkit + Vite**
