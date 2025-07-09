@@ -2,7 +2,7 @@
 ### 📸 App Screenshots
 
 #### 1. Homepage
-![Homepage](screenshots/general.JPG)
+![Homepage](screenshots/general.jpg)
 
 #### 2. Category View
 ![Category View](screenshots/category.png)
