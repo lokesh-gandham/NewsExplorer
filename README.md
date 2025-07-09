@@ -1,5 +1,29 @@
 
-### 📁 Folder: `screenshots`
+### 📸 App Screenshots
+
+#### 1. Homepage
+![Homepage](screenshots/general.jpg)
+
+#### 2. Education of us
+![Education of us View](screenshots/educationcategoryofus.jpg)
+
+#### 3. Article
+![article](screenshots/article.jpg)
+
+#### 4. Search Function
+![search sports](screenshots/searchsports.jpg)
+
+#### 5. After search
+![after search State](screenshots/sportsafterenter.jpg)
+
+#### 6. Resposive
+![Responsive](screenshots/responsive.jpg)
+
+#### 7. Login
+![login ](screenshots/login.jpg)
+
+#### 7. Register
+![register ](screenshots/register.jpg)
 
 
 
