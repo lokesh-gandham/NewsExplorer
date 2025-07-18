@@ -5,14 +5,14 @@ import App from './App.jsx'
 import { BrowserRouter } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import store from './app/store.js'
-import CustomThemeProvider from './context/ThemeContext.jsx';
-
+import ThemeContextProvider from './context/ThemeContext.jsx'
+ThemeContextProvider
 createRoot(document.getElementById('root')).render(
       <Provider store={store}>
-      <CustomThemeProvider>
-      <BrowserRouter>
+      <ThemeContextProvider>
+          <BrowserRouter>
         <App />
       </BrowserRouter>
-    </CustomThemeProvider>
+      </ThemeContextProvider>
   </Provider>
 )
